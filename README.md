@@ -12,3 +12,4 @@ By reviewing the documentation, I gained a thorough understanding of the applica
 3 - Join the organization.
 4 - If you encounter any errors, refresh the page until it loads successfully.
 ```
+![Logo](https://www.gsma.com/get-involved/gsma-membership/wp-content/uploads/2024/01/Simartis-logo-grey-no-background-for-light-background.png)
