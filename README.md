@@ -18,6 +18,7 @@ By reviewing the documentation, I gained a thorough understanding of the applica
 
 ## Documentation
 - ✅ [SM-1 User Story](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM-1%20User%20story.pdf)
+- ✅ [Software Requirements Specification (SRS)](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/Software%20requirements%20specification%20(SRS).pdf)
 - ✅ [SM - Use Case Scenario](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM%20Use%20case%20scenario.pdf)
 
 
