@@ -24,3 +24,10 @@ By reviewing the documentation, I gained a thorough understanding of the applica
 ## Test design
 - 🧪 [SM-2 (Login Test Set)](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM-2%20(Login%20Test%20Set).pdf)
 - 🧪 [SM-23 (Change Test Set)](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM-23%20(Change%20Test%20Set).pdf)
+
+## Tools used
+🔨 [Project management with **Jira**](https://www.atlassian.com/software/jira)
+
+🔨 [Test case management with **Xray**](https://www.getxray.app/)
+
+🔨 [Export documentation with **Better PDF Exporter**](https://marketplace.atlassian.com/apps/5167/better-pdf-exporter-for-jira?tab=overview&hosting=cloud)
