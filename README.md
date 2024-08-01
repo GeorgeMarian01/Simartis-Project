@@ -1,4 +1,4 @@
-# About the project
+# ℹ️ About the project
 During my training program at ITSchool, I had the opportunity to work on a significant project called "Simartis," which primarily focused on analyzing two of the Simartis web application's main functions and designing corresponding tests.
 
 By reviewing the documentation, I gained a thorough understanding of the application's technical specifications. Moving into the test design phase, I created a variety of test cases, including functional, acceptance, and system tests, to cover all possible scenarios. Each test case was meticulously crafted, taking into account different user interactions and potential edge cases.
@@ -16,19 +16,19 @@ By reviewing the documentation, I gained a thorough understanding of the applica
 ![Logo](https://www.gsma.com/get-involved/gsma-membership/wp-content/uploads/2024/01/Simartis-logo-grey-no-background-for-light-background.png)
 
 
-## Documentation
+## 📄 Documentation
 - ✅ [SM-1 User Story](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM-1%20User%20story.pdf)
 - ✅ [Software Requirements Specification (SRS)](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/Software%20requirements%20specification%20(SRS).pdf)
 - ✅ [SM - Use Case Scenario](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM%20Use%20case%20scenario.pdf)
 
 
-## Test design
-- 🧪 [SM-2 (Login Test Set)](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM-2%20(Login%20Test%20Set).pdf)
-- 🧪 [SM-23 (Change Test Set)](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM-23%20(Change%20Test%20Set).pdf)
+## 🧪 Test design
+- ☑️ [SM-2 (Login Test Set)](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM-2%20(Login%20Test%20Set).pdf)
+- ☑️ [SM-23 (Change Test Set)](https://github.com/GeorgeMarian01/Simartis-Project/blob/main/Documentation/SM-23%20(Change%20Test%20Set).pdf)
 
-## Tools used
-🔨 [Project management with **Jira**](https://www.atlassian.com/software/jira)
+## 🔨 Tools used
+🔶 [Project management with **Jira**](https://www.atlassian.com/software/jira)
 
-🔨 [Test case management with **Xray**](https://www.getxray.app/)
+🔶 [Test case management with **Xray**](https://www.getxray.app/)
 
-🔨 [Export documentation with **Better PDF Exporter**](https://marketplace.atlassian.com/apps/5167/better-pdf-exporter-for-jira?tab=overview&hosting=cloud)
+🔶 [Export documentation with **Better PDF Exporter**](https://marketplace.atlassian.com/apps/5167/better-pdf-exporter-for-jira?tab=overview&hosting=cloud)
